@@ -1,0 +1,38 @@
+.jj {
+background-color: dodgerblue;
+color: hotpink;
+font-size: 35px;
+}
+.kk {
+font-size:25px ;
+
+
+}
+body {
+background-size: cover;
+
+}
+#ytp,#gtg {
+background-color: indianred;
+width: 50%;
+
+
+}
+.hhp{
+width: 250PX;
+
+}
+.po{
+    float:left; 
+}
+.batman{
+    float:right
+}
+canvas {
+    border-radius: 30px;
+    border:3px double olive; 
+}
+button {
+    background-color: indianred;
+    font-size: 30px;
+}
